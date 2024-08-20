@@ -1,2 +1,2 @@
-# restraunt_page
+# DineDesign
 html,css basic project
